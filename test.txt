@@ -1,1 +1,2 @@
 Something something something
+This is a sample file.
